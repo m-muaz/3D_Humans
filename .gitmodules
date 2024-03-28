@@ -1,0 +1,3 @@
+[submodule "shapy"]
+	path = shapy
+	url = https://github.com/muelea/shapy
