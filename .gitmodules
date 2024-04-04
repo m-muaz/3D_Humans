@@ -1,3 +1,6 @@
 [submodule "shapy"]
 	path = shapy
 	url = https://github.com/muelea/shapy
+[submodule "HumanSD"]
+	path = HumanSD
+	url = https://github.com/IDEA-Research/HumanSD
