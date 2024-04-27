@@ -4,3 +4,6 @@
 [submodule "HumanSD"]
 	path = HumanSD
 	url = https://github.com/IDEA-Research/HumanSD
+[submodule "ProHMR"]
+	path = ProHMR
+	url = https://github.com/m-muaz/ProHMR.git
