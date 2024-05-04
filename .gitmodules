@@ -7,3 +7,15 @@
 [submodule "ProHMR"]
 	path = ProHMR
 	url = https://github.com/m-muaz/ProHMR.git
+[submodule "smpl_viewer"]
+	path = smpl_viewer
+	url = git@github.com:thmoa/smpl_viewer.git
+[submodule "4D-Humans"]
+	path = 4D-Humans
+	url = git@github.com:shubham-goel/4D-Humans.git
+[submodule "Hello-SMPL"]
+	path = Hello-SMPL
+	url = git@github.com:foamliu/Hello-SMPL.git
+[submodule "SMPLBase"]
+	path = SMPLBase
+	url = git@github.com:ahnHeejune/SMPLBase.git
